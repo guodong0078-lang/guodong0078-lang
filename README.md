@@ -144,9 +144,9 @@ NEURAL-LINK: ACTIVE
 ---
 
 # 📡 CONTACT
-- 📧 Email: （可填写）
-- 🛰 Portfolio（可选）
-- 🧬 Telegram / WeChat（可选）
+- 📧 Email: guodong0078@gmail.com 19303206478@163.com
+- 🛰 Portfolio:waiting...
+- 🧬WeChat:gd0330gd
 
 ---
 
