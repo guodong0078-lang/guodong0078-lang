@@ -41,28 +41,26 @@
 <h2 align="center">⚡ BLACK-GOLD MOTION ZONE · 动态机能展示区</h2>
 <p align="center">► 未来系统启动动画 · 星际科技序列 · HUD/OS 引导动效</p>
 
-<br/>
+<h2 align="center">🚀 Visual Motion Display Zone</h2>
 
-<!-- Video 1 -->
 <p align="center">
   <video src="https://raw.githubusercontent.com/guodong0078-lang/guodong0078-lang/main/1.mp4"
-         width="75%" autoplay loop muted playsinline style="border-radius: 14px;">
+         width="480" controls>
   </video>
 </p>
 
-<!-- Video 2 -->
 <p align="center">
   <video src="https://raw.githubusercontent.com/guodong0078-lang/guodong0078-lang/main/2.mp4"
-         width="75%" autoplay loop muted playsinline style="border-radius: 14px;">
+         width="480" controls>
   </video>
 </p>
 
-<!-- Video 3 -->
 <p align="center">
   <video src="https://raw.githubusercontent.com/guodong0078-lang/guodong0078-lang/main/3.mp4"
-         width="75%" autoplay loop muted playsinline style="border-radius: 14px;">
+         width="480" controls>
   </video>
 </p>
+
 
 <br/>
 
