@@ -9,7 +9,7 @@
 
 <!-- 宇宙背景（第一层：星云） -->
 <p align="center">
-  <img src="https://i.imgur.com/ffZQGqP.gif" width="100%](https://www.pinterest.com/pin/1020909809293716171/)">
+  <img src="https://i.imgur.com/ffZQGqP.gif" width="100%]((https://www.pinterest.com/pin/1020909809293716171/))">
 </p>
 
 <!-- 时空裂隙（多宇宙核心层） -->
