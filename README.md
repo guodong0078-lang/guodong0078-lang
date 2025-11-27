@@ -1,6 +1,6 @@
 <!-- 可爱 Banner（记得把链接换成你自己的 Banner 图） -->
 <p align="center">
-  <img src="https://github.com/guodong0078-lang/guodong0078-lang/blob/main/banner.jpg?raw=true" width="100%"/>
+  <img src=""/>
 </p>
 
 <h1 align="center">🌸 你好呀，我是 Guodong！🩵</h1>
